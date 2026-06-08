@@ -1,0 +1,7 @@
+// windows/runner/main.cpp (already exists in Flutter projects)
+// This file configures Windows desktop support
+
+// To enable desktop support, run:
+// flutter config --enable-windows-desktop
+// flutter config --enable-macos-desktop
+// flutter config --enable-linux-desktop
